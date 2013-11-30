@@ -1,0 +1,8 @@
+James Bond 2583CA 010789 Computer_Science 89 3.25 Spr2015
+Janefir Carlos 3242MA 010978 Software_Engineering 99 3.10 Spr2014
+Robindra Bhomik 3287VR 080978 Computer_Engineering 45 3.10 Fall2016
+Mohammed Akbar 2118MA 120485 computer_science 122 3.25 spring2009
+Zafrin Akhter 2283PA 101084 Computer_Info_Tech 120 3.52 Fall2014
+Mohammed Azam 5716NY 010777 Computer_Science 110 3.25 Spring2010
+Mohammed Ali 5272VA 090886 Computer_Science 122 325 Spring2015
+Jafry Barry 5524NY 010779 Software_Engineering 78 3.22 Spring2015
