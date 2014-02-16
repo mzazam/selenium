@@ -7,7 +7,8 @@ public class Course {
 	private int finalScore;
 	private Grades letterGread;
 	private double courseGpa;
-	
+
+    //Sending the updated version
 	public void setCourseName(String name) {
 		this.name = name;
 	}
